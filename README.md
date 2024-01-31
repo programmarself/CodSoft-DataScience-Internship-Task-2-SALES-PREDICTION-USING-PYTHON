@@ -13,5 +13,8 @@ leveraging these predictions, businesses can optimize their
 advertising strategies and maximize sales potential. Let's embark on
 the journey of sales prediction using machine learning in Python.
 
-![Uploading big-mart-sales-prediciton-using-machine-learning.png…]()
+
+
+![1_OB6ODKHJN_IfS2IC3rIlQg](https://github.com/programmarself/CodSoft-DataScience-Internship-Task-2-SALES-PREDICTION-USING-PYTHON/assets/134633289/d2d04c5e-f390-45d7-8235-96b64e06aad0)
+
 
