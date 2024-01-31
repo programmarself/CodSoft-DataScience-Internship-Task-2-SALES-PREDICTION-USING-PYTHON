@@ -10,12 +10,8 @@ Scientist is crucial for predicting future sales. They utilize machine
 learning techniques in Python to analyze and interpret data, allowing
 them to make informed decisions regarding advertising costs. By
 leveraging these predictions, businesses can optimize their
-advertising strategies and maximize sales potential. Let'
-
-s embark on
-
+advertising strategies and maximize sales potential. Let's embark on
 the journey of sales prediction using machine learning in Python.
 
-TASK 4
+![Uploading big-mart-sales-prediciton-using-machine-learning.png…]()
 
-(use any one dataset)
